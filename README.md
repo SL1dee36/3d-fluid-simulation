@@ -6,6 +6,7 @@
 
 This program simulates a 3D fluid using the Smoothed Particle Hydrodynamics (SPH) method. It allows users to interact with the fluid by creating new particles and manipulating existing ones in a three-dimensional space.
 
+https://youtu.be/PrwwKHnlshA
 
 ## Features
 
